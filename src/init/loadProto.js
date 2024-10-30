@@ -42,7 +42,6 @@ export const loadProtos = async () => {
     }
 
     console.log('Protobuf file loaded successfully.');
-    console.log(protoMessages);
   } catch (e) {
     console.error('Error loading protobuf file:', e);
   }
