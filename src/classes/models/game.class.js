@@ -21,3 +21,5 @@ class Game {
 
   getAllLocation() {}
 }
+
+export default Game;
